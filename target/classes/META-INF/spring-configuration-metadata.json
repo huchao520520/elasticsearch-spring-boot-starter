@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "lanlinker.elasticsearch.hosts",
+      "type": "java.lang.String",
+      "description": "elasticsearch集群中节点信息，多个以,隔开",
+      "defaultValue": "http://127.0.0.1:9200"
+    }
+  ]
+}

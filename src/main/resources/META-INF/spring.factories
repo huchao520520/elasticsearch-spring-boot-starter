@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.lanlinker.starter.elasticsearch.config.ElasticsearchAutoConfiguration

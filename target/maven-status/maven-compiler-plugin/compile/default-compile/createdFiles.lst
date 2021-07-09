@@ -1,0 +1,11 @@
+com\lanlinker\starter\elasticsearch\scanner\RepositoryScanner.class
+com\lanlinker\starter\elasticsearch\annotaions\Id.class
+com\lanlinker\starter\elasticsearch\repository\RepositoryHandler$1.class
+com\lanlinker\starter\elasticsearch\annotaions\Index.class
+com\lanlinker\starter\elasticsearch\config\ElasticsearchAutoConfiguration.class
+com\lanlinker\starter\elasticsearch\entiry\PageInfo.class
+com\lanlinker\starter\elasticsearch\factory\RepositoryFactory.class
+com\lanlinker\starter\elasticsearch\repository\RepositoryHandler$3.class
+com\lanlinker\starter\elasticsearch\repository\RepositoryHandler.class
+com\lanlinker\starter\elasticsearch\repository\RepositoryHandler$2.class
+com\lanlinker\starter\elasticsearch\repository\Repository.class
